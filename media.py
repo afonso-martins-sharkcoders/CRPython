@@ -1,0 +1,1 @@
+n1 = float(input("Insira a primeira nota :"))s
